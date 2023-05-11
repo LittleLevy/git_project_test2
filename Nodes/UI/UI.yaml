@@ -82,7 +82,7 @@ Children:
     DataType: Size
     ModellingRule: Optional
     Value: 400.0
-  - Name: TextBox1
+  - Name: Box1
     Type: TextBox
     Children:
     - Name: Text
